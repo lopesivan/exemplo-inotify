@@ -1,3 +1,2 @@
-# local
-#git clone file://${HOME}/git/exemplo-inotify.git
-#git remote add origin file://${HOME}/git/exemplo-inotify.git
+#git clone file://${HOME}/git/inotify-sample.git
+#git remote add origin file://${HOME}/git/inotify-sample.git
