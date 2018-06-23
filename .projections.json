@@ -1,7 +1,14 @@
 {
   "./.projections.json": { "type": "dit" },
-    "*.c": {
+
+  "*.c": {
     "type": "s",
+    "start": "make",
+    "dispatch": "make"
+  },
+
+  "Makefile": {
+    "type": "mk",
     "start": "make",
     "dispatch": "make"
   }
