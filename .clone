@@ -1,0 +1,1 @@
+git@github.com:$(git config --get github.user)/exemplo-inotify.git
