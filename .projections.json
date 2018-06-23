@@ -1,0 +1,8 @@
+{
+  "./.projections.json": { "type": "dit" },
+    "*.c": {
+    "type": "s",
+    "start": "make",
+    "dispatch": "make"
+  }
+}
